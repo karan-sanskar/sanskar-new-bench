@@ -1,0 +1,1 @@
+import"./hoisted.b0ccece0.js";import"./hoisted.ad5c61a5.js";window.addEventListener("pageshow",function(t){if(t.persisted||performance.getEntriesByType("navigation")[0].type==="back_forward"){const e=document.getElementById("category");e&&(e.selectedIndex=0)}});

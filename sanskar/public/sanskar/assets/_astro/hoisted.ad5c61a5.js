@@ -1,0 +1,1 @@
+import"./hoisted.b0ccece0.js";const a=document.querySelectorAll(".publish_date");a.forEach(e=>{const o=e.textContent.trim(),t=new Date(o);if(!isNaN(t)){const n=`${t.toLocaleString("en-US",{month:"long"})} ${t.getDate()}, ${t.getFullYear()}`;e.textContent=n}});
