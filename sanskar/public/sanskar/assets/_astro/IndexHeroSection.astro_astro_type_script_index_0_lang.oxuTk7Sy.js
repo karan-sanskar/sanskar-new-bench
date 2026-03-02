@@ -1,0 +1,1 @@
+import{S as e}from"./swiper-bundle.CJyPKyyL.js";new e(".hero-swiper",{loop:!0,pagination:{el:".swiper-pagination",clickable:!0},navigation:{nextEl:".swiper-button-next-custom",prevEl:".swiper-button-prev-custom"}});
